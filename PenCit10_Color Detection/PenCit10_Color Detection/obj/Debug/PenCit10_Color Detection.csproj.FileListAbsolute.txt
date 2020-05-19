@@ -1,0 +1,10 @@
+C:\Users\TIARA\Documents\KULIAH\Semester 4\Image Proceesing\Practice\PenCit10_Color Detection\PenCit10_Color Detection\obj\Debug\PenCit10_Color Detection.csprojAssemblyReference.cache
+C:\Users\TIARA\Documents\KULIAH\Semester 4\Image Proceesing\Practice\PenCit10_Color Detection\PenCit10_Color Detection\obj\Debug\PenCit10_Color_Detection.Form1.resources
+C:\Users\TIARA\Documents\KULIAH\Semester 4\Image Proceesing\Practice\PenCit10_Color Detection\PenCit10_Color Detection\obj\Debug\PenCit10_Color_Detection.Properties.Resources.resources
+C:\Users\TIARA\Documents\KULIAH\Semester 4\Image Proceesing\Practice\PenCit10_Color Detection\PenCit10_Color Detection\obj\Debug\PenCit10_Color Detection.csproj.GenerateResource.cache
+C:\Users\TIARA\Documents\KULIAH\Semester 4\Image Proceesing\Practice\PenCit10_Color Detection\PenCit10_Color Detection\obj\Debug\PenCit10_Color Detection.csproj.CoreCompileInputs.cache
+C:\Users\TIARA\Documents\KULIAH\Semester 4\Image Proceesing\Practice\PenCit10_Color Detection\PenCit10_Color Detection\bin\Debug\PenCit10_Color Detection.exe.config
+C:\Users\TIARA\Documents\KULIAH\Semester 4\Image Proceesing\Practice\PenCit10_Color Detection\PenCit10_Color Detection\bin\Debug\PenCit10_Color Detection.exe
+C:\Users\TIARA\Documents\KULIAH\Semester 4\Image Proceesing\Practice\PenCit10_Color Detection\PenCit10_Color Detection\bin\Debug\PenCit10_Color Detection.pdb
+C:\Users\TIARA\Documents\KULIAH\Semester 4\Image Proceesing\Practice\PenCit10_Color Detection\PenCit10_Color Detection\obj\Debug\PenCit10_Color Detection.exe
+C:\Users\TIARA\Documents\KULIAH\Semester 4\Image Proceesing\Practice\PenCit10_Color Detection\PenCit10_Color Detection\obj\Debug\PenCit10_Color Detection.pdb
